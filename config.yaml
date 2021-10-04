@@ -1,11 +1,16 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.AI OR cat:cs.RO OR cat:cs.LG'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        MPC: 2
+        model predictive control: 2
+        stability: 2
+        lyapunov: 2
+        shloshing: 6
+        Reinforcement Learning: 2
+        gaussian process: 3
+        Residual: 4
 
 # 通知の閾値
 score_threshold: 0
