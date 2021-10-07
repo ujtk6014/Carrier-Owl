@@ -13,4 +13,4 @@ keywords:
         Residual: 4
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
