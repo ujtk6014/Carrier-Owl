@@ -11,6 +11,7 @@ keywords:
         Reinforcement Learning: 2
         gaussian process: 3
         Residual: 4
+        control: 1
 
 # 通知の閾値
-score_threshold: 3
+score_threshold: 5
